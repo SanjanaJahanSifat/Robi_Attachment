@@ -1,0 +1,1 @@
+This notebook is for segmenting customer using various clustering algorithms based on multiple features
